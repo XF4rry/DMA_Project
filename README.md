@@ -6,13 +6,14 @@ Descrizione breve dell'applicativo, ad esempio: "Un'applicazione web che permett
 
 - **Autenticazione Utente**: Gli utenti possono autenticarsi con il proprio account Spotify.  
 - **Ricerca Brani**: Ricerca brani, album e artisti attraverso l'API di Spotify.  
-- **Creazione Playlist**: Permette di creare e gestire playlist personali.  
+- **Creazione Playlist**: Permette di creare e gestire playlist personali.
+- **Player Musicale**: Permette l'acolto di brani.
 - **Visualizzazione Raccomandazioni**: Suggerimenti di brani basati sulla tua musica preferita.  
 
 ## Tecnologie Utilizzate  
 
 - **Frontend**: ejs / HTML
-- **Backend**: Node.js / Express / axios  
+- **Backend**: Node.js / Express / axios
 - **API di Spotify**: Utilizzata per l'autenticazione e per accedere ai dati musicali.  
 
 ## Requisiti  
